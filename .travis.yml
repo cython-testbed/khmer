@@ -78,7 +78,7 @@ install:
   - gcc --version
   - which gcc
   - make install-dependencies
-  - pip install --install-option="--no-cython-compile" https://github.com/cython/cython/archive/23e8254fb8c83a5a70e692c9f553acbc37a45f57.zip
+  - pip install --install-option="--no-cython-compile" https://github.com/cython/cython/archive/109f07b96f382247e0816df06334c509d57479be.zip
 
 # command to run tests
 script:
